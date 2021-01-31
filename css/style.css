@@ -1,0 +1,26 @@
+
+h1{
+    color: blue;
+}
+
+h2{
+    color: green
+}
+h3{
+    color: red;
+}
+h4{
+    color: cyan
+}
+h5{
+    color: yellow
+}
+h6{
+    color: orange
+}
+
+td{
+    border: black;
+    text-align: center;
+    
+}
