@@ -1,0 +1,27 @@
+#myForm{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 25vh;
+}
+p{
+    align-items: center;
+    font-size: medium;
+    font-style: inherit;
+    font-weight: 500;
+    
+}
+
+
+button{
+    background-color: rgb(170, 0, 0);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border: 2px;
+    padding: 7px 15px;
+    font-style: oblique;
+    color: white;
+    border-style: round;
+    font-size: 15px;
+}
+
+
