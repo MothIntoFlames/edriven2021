@@ -1,0 +1,43 @@
+body{
+   background-color: rgb(240, 240, 240);
+   background-image: url(/twst.jpg);
+}
+
+.center{
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto; 
+    margin-top: 15%;
+    width: 35%;
+    
+}
+.center .fa{
+    font-size: 50px;
+    text-align: center;
+    text-decoration: none;
+    padding: 20px;
+    padding-left: 80px;
+
+}
+
+.modal body{
+    background-color:gray;
+}
+
+col{
+    background-color: white;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 50%;
+    color: black
+  }
+  
+  td, th {
+    border: 1px solid black;
+  }
+  .container{
+    padding: 20px;
+  }
